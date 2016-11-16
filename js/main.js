@@ -466,10 +466,6 @@ var AI = (function() {
 
 	};
 
-	exports.AImove0 = function() {
-		exports.AI();
-	};
-
 	/*
 		'AI()' - every time AI() runs a 'for in loop' will scan over all tttMatrix objects -
 		if any value = -2 , push that related key(s) to the attack array -
