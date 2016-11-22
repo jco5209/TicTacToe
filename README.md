@@ -12,4 +12,4 @@
 
 * Keep track of the state of the game — whose turn it is, where the Xs and Os are on the board, who won or lost, and whether the game is a draw. Announce when the game ends by displaying the relevant screen.
 
-For extra credit, let a player add their name before the game starts, and add programming to support playing against the computer.
+*For extra credit, let a player add their name before the game starts, and add programming to support playing against the computer.*
